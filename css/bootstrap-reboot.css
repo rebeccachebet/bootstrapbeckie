@@ -167,7 +167,7 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none;
+  border-style: groove;
 }
 
 svg {
@@ -211,7 +211,7 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: inherit;
+  font-family: cursive;
   font-size: inherit;
   line-height: inherit;
 }
